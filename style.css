@@ -95,6 +95,9 @@ ul li{
         width: 100px;
          margin-left: -2px;
     }
+    .header .cont .text li{
+        margin-right: 5px;
+    }
     .three .cont{
         display: flex;
         flex-direction: column-reverse;
