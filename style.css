@@ -136,9 +136,6 @@ ul li{
     .five{
         height: 500px !important;
         padding-left: 30px !important;
-        background-color: rgb(4, 4, 75);
-        width: fit-content;
-        
     }
     .body{
         width: fit-content;
