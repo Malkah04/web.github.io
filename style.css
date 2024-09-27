@@ -93,6 +93,7 @@ ul li{
     }
      .header .cont .logo{
         width: 100px;
+         margin-left: -2px;
     }
     .three .cont{
         display: flex;
